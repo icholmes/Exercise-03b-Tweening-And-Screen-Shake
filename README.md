@@ -6,7 +6,7 @@ The second exercise adding "juicy" features to a simple brick-breaker game.
 
 ## To play
 
-Move the paddle using the W and A. Help the ball break all the bricks before you run out of lives.
+Move the paddle using A and D. Help the ball break all the bricks before you run out of lives.
 
 
 ## Implementation
@@ -26,4 +26,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Izzy Holmes
